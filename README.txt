@@ -1,0 +1,1 @@
+this repo implements a singly linked list with simple methods.
